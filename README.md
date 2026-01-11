@@ -1,4 +1,4 @@
-# 👨‍💻 Prahas P B Rao — Software Developer Portfolio
+#                                           👨‍💻 Prahas P B Rao 
 
 Welcome to my GitHub portfolio!  
 I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with strong interests in **backend development, full-stack web applications, and system design**. I enjoy building scalable, efficient, and production-ready software using modern technologies.
@@ -25,7 +25,7 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 - Hands-on exposure to **Docker, Kubernetes, and Linux-based deployments**
 - Built and deployed **real-world projects** including chat applications, caching systems, and campus-scale platforms
 
-📎 **Resume (PDF):** [Add Resume Link Here]
+📎 **Resume :** https://drive.google.com/file/d/13w1wzIvG7gbZ8eQuQpfnwm4-P8NKityd
 
 ---
 
@@ -61,8 +61,8 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 
 ### 🔹 ChatSphere — Real-Time Chat Application
 **Tech Stack:** Node.js, Express.js, React.js, WebSockets, JWT, MongoDB  
-🔗 **GitHub:** [ChatSphere Repository]  
-🌐 **Live Demo:** [ChatSphere Live]
+🔗 **GitHub:** https://github.com/prahaspbrao/Chat-App 
+🌐 **Live Demo:** https://chat-app-md9rr.sevalla.app/
 
 - Built a real-time chat application supporting one-to-one and group messaging.
 - Implemented **JWT-based authentication** and role-based access control.
@@ -73,7 +73,7 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 
 ### 🔹 Dockerized Node.js Application — Multi-Container DevOps Project
 **Tech Stack:** Node.js, Express.js, MongoDB, Redis, Docker, Docker Compose, Nginx, Docker Swarm  
-🔗 **GitHub:** [Dockerized App Repository]
+🔗 **GitHub:** https://github.com/prahaspbrao/Node_Docker
 
 - Containerized a Node.js application, scaling from single to multi-container architecture.
 - Integrated MongoDB and Redis for data persistence and session handling.
@@ -84,7 +84,7 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 
 ### 🔹 Redis Project — High-Performance REST API
 **Tech Stack:** Node.js, Express.js, Redis, REST APIs  
-🔗 **GitHub:** [Redis Project Repository]
+🔗 **GitHub:** https://github.com/prahaspbrao/Redis_Project
 
 - Developed a high-performance REST API using Redis as an in-memory cache.
 - Implemented cache hit and cache miss strategies to optimize response time.
@@ -94,7 +94,7 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 
 ### 🔹 Pre-Final Year Project — FindZone: Campus Lost & Found System
 **Tech Stack:** Next.js, Node.js, MySQL/MongoDB, OTP Verification  
-🔗 **GitHub:** [FindZone Repository]
+🔗 **GitHub:** https://github.com/prahaspbrao/FindZone
 
 - Designed a campus-wide lost and found system for reporting and searching items.
 - Implemented OTP-based secure return verification.
@@ -105,5 +105,4 @@ I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with 
 ## 📫 Connect With Me
 
 - 📧 Email: prahaspbrao2005@gmail.com  
-- 💼 LinkedIn: [LinkedIn Profile]  
-- 🧑‍💻 GitHub: [GitHub Profile]  
+- 💼 LinkedIn: https://www.linkedin.com/in/prahas-p-b-rao-78062a2a3
