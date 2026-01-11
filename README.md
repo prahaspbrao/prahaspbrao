@@ -1,101 +1,109 @@
-<h1 align="center">Hi 👋, I'm Prahas P B Rao</h1>
-<h3 align="center">Prefinal-year CSE Student | Full-Stack & Backend Developer</h3>
+# 👨‍💻 Prahas P B Rao — Software Developer Portfolio
 
-<p align="center">
-  <a href="https://github.com/prahaspbrao"><img src="https://img.shields.io/badge/GitHub-prahaspbrao-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:prahaspbrao2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
+Welcome to my GitHub portfolio!  
+I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with strong interests in **backend development, full-stack web applications, and system design**. I enjoy building scalable, efficient, and production-ready software using modern technologies.
 
 ---
 
-## 👨‍💻 About Me
-I’m a **prefinal-year Computer Science Engineering student** from Mysore with a strong interest in **backend and full-stack development**.  
-I enjoy building real-world applications, understanding system internals, and working with **Linux, containers, and scalable architectures**.
+## 🧠 About Me
 
-- 💻 Strong foundations in **DSA, OS, CN, DBMS**
-- ⚙️ Hands-on with **Docker & Kubernetes**
-- 🐧 Comfortable working in **Linux environments**
-- 🚀 Actively learning **DevOps & system design**
+I am a motivated **Full-Stack Developer** with hands-on experience in building **real-time applications**, **RESTful APIs**, and **event-driven systems**. I have a solid foundation in **core computer science concepts**, combined with practical exposure to **DevOps tools** and **cloud-native development practices**.
+
+- 🎓 **B.E. in Computer Science (2023–2027)**  
+  The National Institute of Engineering, Mysuru  
+- 📍 Mysuru, Karnataka, India  
+- 💻 Focus Areas: Backend Development, Full-Stack Web Development, System Design  
 
 ---
 
-## 🛠️ Tech Stack
+## 📄 Resume
 
-### Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with hands-on experience in **backend development, full-stack web applications, and DevOps practices**. My work focuses on building **scalable APIs, real-time systems, and cloud-ready applications** using modern technologies.
+
+- Strong foundation in **Data Structures & Algorithms (Java)**
+- Experienced in **Node.js, Express.js, REST APIs, GraphQL, Apache Kafka, and Redis caching**
+- Hands-on exposure to **Docker, Kubernetes, and Linux-based deployments**
+- Built and deployed **real-world projects** including chat applications, caching systems, and campus-scale platforms
+
+📎 **Resume (PDF):** [Add Resume Link Here]
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Java, Python, JavaScript, SQL, HTML5, CSS3  
+
+### Backend
+- Node.js, Express.js  
+- REST APIs, GraphQL  
+- JWT Authentication  
+- Message Queuing & Event-Driven Architecture  
+- Apache Kafka  
+- Redis (In-Memory Caching)  
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+- React.js, Next.js  
+- Tailwind CSS, Material UI, shadcn/ui  
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+### Databases
+- MySQL, PostgreSQL, MongoDB, Redis  
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### DevOps & Tooling
+- Docker, Docker Compose, Kubernetes  
+- Git, GitHub, Git Bash  
+- Unix/Linux Systems  
+- Nginx, Docker Swarm  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 ChatSphere
-**Real-time full-stack chat application** with authentication and message persistence.  
-- React, Express, WebSockets, MongoDB  
-- Secure login & responsive UI  
+### 🔹 ChatSphere — Real-Time Chat Application
+**Tech Stack:** Node.js, Express.js, React.js, WebSockets, JWT, MongoDB  
+🔗 **GitHub:** [ChatSphere Repository]  
+🌐 **Live Demo:** [ChatSphere Live]
 
-🔗 Live: https://chat-app-md9rr.sevalla.app  
-🔗 GitHub: https://github.com/prahaspbrao/Chat-App  
-
----
-
-### 🔹 FindZone (Lost & Found System)
-A **full-stack campus lost & found platform** with secure workflows.  
-- Next.js, Prisma, MySQL  
-- OTP-based return verification  
-- Searchable item listings  
-
-🔗 GitHub: https://github.com/prahaspbrao/FindZone  
+- Built a real-time chat application supporting one-to-one and group messaging.
+- Implemented **JWT-based authentication** and role-based access control.
+- Enabled low-latency real-time communication using **WebSockets**.
+- Designed a responsive and intuitive frontend using React.js.
 
 ---
 
-### 🔹 Todo App (Dockerized MERN)
-A **Dockerized MERN stack application** with complete CRUD functionality.  
-- REST APIs with Node & Express  
-- MongoDB for persistence  
-- Docker & Docker Compose for multi-service deployment  
+### 🔹 Dockerized Node.js Application — Multi-Container DevOps Project
+**Tech Stack:** Node.js, Express.js, MongoDB, Redis, Docker, Docker Compose, Nginx, Docker Swarm  
+🔗 **GitHub:** [Dockerized App Repository]
 
-🔗 GitHub: https://github.com/prahaspbrao/MERN-stack  
-
----
-
-## 🎓 Education
-🎓 **B.E. Computer Science & Engineering**  
-The National Institute of Engineering, Mysore  
-**CGPA:** 7.57  
+- Containerized a Node.js application, scaling from single to multi-container architecture.
+- Integrated MongoDB and Redis for data persistence and session handling.
+- Managed dev and prod environments using Docker Compose.
+- Deployed on an Ubuntu server with Nginx load balancing and Docker Swarm rolling updates.
 
 ---
 
-## 🌱 Currently Exploring
-- Backend system design
-- Kubernetes & container orchestration
-- DevOps workflows and CI/CD
-- Production-ready full-stack apps
+### 🔹 Redis Project — High-Performance REST API
+**Tech Stack:** Node.js, Express.js, Redis, REST APIs  
+🔗 **GitHub:** [Redis Project Repository]
+
+- Developed a high-performance REST API using Redis as an in-memory cache.
+- Implemented cache hit and cache miss strategies to optimize response time.
+- Reduced database load and improved scalability through intelligent caching.
 
 ---
 
-## 📫 Contact
-📧 prahaspbrao2005@gmail.com  
-📍 Mysore, India  
+### 🔹 Pre-Final Year Project — FindZone: Campus Lost & Found System
+**Tech Stack:** Next.js, Node.js, MySQL/MongoDB, OTP Verification  
+🔗 **GitHub:** [FindZone Repository]
+
+- Designed a campus-wide lost and found system for reporting and searching items.
+- Implemented OTP-based secure return verification.
+- Improved item discovery with efficient search and management features.
 
 ---
 
-⭐ *Always learning. Always building.*
+## 📫 Connect With Me
+
+- 📧 Email: prahaspbrao2005@gmail.com  
+- 💼 LinkedIn: [LinkedIn Profile]  
+- 🧑‍💻 GitHub: [GitHub Profile]  
