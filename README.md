@@ -1,108 +1,127 @@
-#                                           👨‍💻 Prahas P B Rao 
+# 👨‍💻 Prahas P B Rao
 
-Welcome to my GitHub portfolio!  
-I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with strong interests in **backend development, full-stack web applications, and system design**. I enjoy building scalable, efficient, and production-ready software using modern technologies.
-
----
-
-## 🧠 About Me
-
-I am a motivated **Full-Stack Developer** with hands-on experience in building **real-time applications**, **RESTful APIs**, and **event-driven systems**. I have a solid foundation in **core computer science concepts**, combined with practical exposure to **DevOps tools** and **cloud-native development practices**.
-
-- 🎓 **B.E. in Computer Science (2023–2027)**  
-  The National Institute of Engineering, Mysuru  
-- 📍 Mysuru, Karnataka, India  
-- 💻 Focus Areas: Backend Development, Full-Stack Web Development, System Design  
+📍 Mysuru, Karnataka, India  
+📧 prahaspbrao2005@gmail.com | 📞 7892851116  
+🔗 [LinkedIn](https://www.linkedin.com/in/prahas-p-b-rao-78062a2a3) | [GitHub](https://github.com/prahaspbrao)
 
 ---
 
-## 📄 Resume
+## 🚀 Professional Summary
 
-I am a **Computer Science and Engineering undergraduate (Pre-Final Year)** with hands-on experience in **backend development, full-stack web applications, and DevOps practices**. My work focuses on building **scalable APIs, real-time systems, and cloud-ready applications** using modern technologies.
+Pre-Final Year Computer Science student (2027 Batch) with strong foundations in **Data Structures, Algorithms, Object-Oriented Programming, and System Design**.
 
-- Strong foundation in **Data Structures & Algorithms (Java)**
-- Experienced in **Node.js, Express.js, REST APIs, GraphQL, Apache Kafka, and Redis caching**
-- Hands-on exposure to **Docker, Kubernetes, and Linux-based deployments**
-- Built and deployed **real-world projects** including chat applications, caching systems, and campus-scale platforms
-
-📎 **Resume :** https://drive.google.com/file/d/13w1wzIvG7gbZ8eQuQpfnwm4-P8NKityd
+Currently working as a **Full-Stack Developer Intern at Lugality**, building scalable backend systems and distributed processing modules. Passionate about designing reliable architectures, optimizing performance, and engineering production-ready software systems.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-### Languages
-- Java, Python, JavaScript, SQL, HTML5, CSS3  
+### 💻 Languages
+Java, Python, JavaScript, SQL
 
-### Backend
-- Node.js, Express.js  
-- REST APIs, GraphQL  
-- JWT Authentication  
-- Message Queuing & Event-Driven Architecture  
-- Apache Kafka  
-- Redis (In-Memory Caching)  
+### 🧠 Core Concepts
+Data Structures & Algorithms  
+OOP & Software Design  
+System Design  
+Multithreading  
+REST Architecture  
+Asynchronous Processing  
 
-### Frontend
-- React.js, Next.js  
-- Tailwind CSS, Material UI, shadcn/ui  
+### ⚙ Backend & Distributed Systems
+Node.js, Express.js  
+GraphQL  
+JWT Authentication  
+Redis (Caching & Pub/Sub)  
+Apache Kafka  
+Supabase  
 
-### Databases
-- MySQL, PostgreSQL, MongoDB, Redis  
+### 🗄 Databases
+MySQL  
+PostgreSQL  
+MongoDB  
 
-### DevOps & Tooling
-- Docker, Docker Compose, Kubernetes  
-- Git, GitHub, Git Bash  
-- Unix/Linux Systems  
-- Nginx, Docker Swarm  
+### 🚢 DevOps & Tooling
+Docker  
+Kubernetes  
+Git & GitHub Actions  
+Linux / Unix Systems  
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — Lugality (Remote)  
+📅 Feb 2026 – Present
+
+- Developing scalable web applications using **Next.js** with modern component-based architecture.
+- Integrating **Supabase (PostgreSQL)** for authentication, storage, and database management.
+- Implementing secure authentication flows with role-based access control.
+- Designing optimized relational schemas for performance and maintainability.
+- Building dynamic UI features with efficient state management and API integrations.
+- Deploying applications with focus on scalability, reliability, and performance.
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 ChatSphere — Real-Time Chat Application
-**Tech Stack:** Node.js, Express.js, React.js, WebSockets, JWT, MongoDB  
-🔗 **GitHub:** https://github.com/prahaspbrao/Chat-App 
-🌐 **Live Demo:** https://chat-app-md9rr.sevalla.app/
+### 🔹 ChatSphere — Real-Time Messaging Platform  
+**Tech:** Node.js, Express.js, React.js, WebSockets, JWT, MongoDB  
+🔗 GitHub: https://github.com/prahaspbrao/Chat-App  
+🌐 Live: https://chat-app-md9rr.sevalla.app/
 
-- Built a real-time chat application supporting one-to-one and group messaging.
-- Implemented **JWT-based authentication** and role-based access control.
-- Enabled low-latency real-time communication using **WebSockets**.
-- Designed a responsive and intuitive frontend using React.js.
-
----
-
-### 🔹 Dockerized Node.js Application — Multi-Container DevOps Project
-**Tech Stack:** Node.js, Express.js, MongoDB, Redis, Docker, Docker Compose, Nginx, Docker Swarm  
-🔗 **GitHub:** https://github.com/prahaspbrao/Node_Docker
-
-- Containerized a Node.js application, scaling from single to multi-container architecture.
-- Integrated MongoDB and Redis for data persistence and session handling.
-- Managed dev and prod environments using Docker Compose.
-- Deployed on an Ubuntu server with Nginx load balancing and Docker Swarm rolling updates.
+- Engineered real-time bidirectional communication using WebSockets.
+- Implemented JWT-based authentication and role-based access control.
+- Designed scalable backend services handling concurrent users.
+- Modeled optimized database schema for efficient message retrieval.
 
 ---
 
-### 🔹 Redis Project — High-Performance REST API
-**Tech Stack:** Node.js, Express.js, Redis, REST APIs  
-🔗 **GitHub:** https://github.com/prahaspbrao/Redis_Project
+### 🔹 Scalable Backend Infrastructure — Caching & Async Processing  
+**Tech:** Redis, REST APIs, Message Queues
 
-- Developed a high-performance REST API using Redis as an in-memory cache.
-- Implemented cache hit and cache miss strategies to optimize response time.
-- Reduced database load and improved scalability through intelligent caching.
+- Architected high-performance REST APIs with Redis caching layer.
+- Implemented producer–worker system for background job processing.
+- Added retry logic and parallel workers for fault tolerance.
+- Structured modular services for scalability and maintainability.
 
 ---
 
-### 🔹 Pre-Final Year Project — FindZone: Campus Lost & Found System
-**Tech Stack:** Next.js, Node.js, MySQL/MongoDB, OTP Verification  
-🔗 **GitHub:** https://github.com/prahaspbrao/FindZone
+### 🔹 FindZone — Campus Lost & Found System  
+**Tech:** Next.js, Node.js, MySQL/MongoDB, OTP Verification  
+🔗 GitHub: https://github.com/prahaspbrao/FindZone
 
-- Designed a campus-wide lost and found system for reporting and searching items.
+- Developed full-stack system for item reporting and search workflows.
 - Implemented OTP-based secure return verification.
-- Improved item discovery with efficient search and management features.
+- Optimized queries and indexing for efficient item discovery.
 
 ---
 
-## 📫 Connect With Me
+### 🔹 Bank App — Secure Digital Banking System  
+**Tech:** Node.js, Express.js, MongoDB, JWT, bcrypt  
+🔗 GitHub: (Add Link)
 
-- 📧 Email: prahaspbrao2005@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/prahas-p-b-rao-78062a2a3
+- Built full-stack banking system supporting authentication and fund transfers.
+- Implemented JWT-based authentication with bcrypt password hashing.
+- Designed RESTful APIs and secure transaction management.
+- Ensured data integrity and safe concurrency handling.
+
+---
+
+## 🎓 Education
+
+**B.E. in Computer Science (2023 – 2027)**  
+The National Institute of Engineering (NIE), Mysuru  
+CGPA: 7.6 / 10  
+
+---
+
+## 📈 Current Focus
+
+- Backend Architecture & System Design  
+- Distributed Systems & Messaging Queues  
+- Performance Optimization  
+- Cloud-Native Application Development  
+
+---
+
+⭐ Always building. Always improving.
