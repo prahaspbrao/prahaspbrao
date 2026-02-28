@@ -111,7 +111,7 @@ Currently working as a **Full-Stack Developer Intern at Lugality**, building sca
 
 ### 🔹 Bank App — Secure Digital Banking System  
 **Tech:** Node.js, Express.js, MongoDB, JWT, bcrypt  
-🔗 GitHub: (Add Link)
+🔗 GitHub: https://github.com/prahaspbrao/Bank_App
 
 - Built secure banking system supporting authentication and fund transfers.
 - Implemented JWT-based authentication with bcrypt password hashing.
