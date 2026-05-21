@@ -10,7 +10,7 @@
 
 Pre-Final Year Computer Science student (2027 Batch) with strong foundations in **Data Structures, Algorithms, Object-Oriented Programming, and System Design**.
 
-Currently working as a **Full-Stack Developer Intern at Lugality**, building scalable backend systems and distributed processing modules. Passionate about system architecture, performance optimization, and engineering reliable production-ready software.
+Worked as a **Full-Stack Developer Intern at Lugality**, building scalable backend systems and distributed processing modules. Passionate about system architecture, performance optimization, and engineering reliable production-ready software.
 
 ---
 
@@ -65,7 +65,7 @@ Currently working as a **Full-Stack Developer Intern at Lugality**, building sca
 ## 💼 Experience
 
 ### Full Stack Developer Intern — Lugality (Remote)  
-📅 Feb 2026 – Present
+📅 Feb 2026 – April 2026
 
 - Developing scalable web applications using **Next.js** with modern component-based architecture.
 - Integrating **Supabase (PostgreSQL)** for authentication, storage, and database management.
@@ -124,7 +124,7 @@ Currently working as a **Full-Stack Developer Intern at Lugality**, building sca
 
 **B.E. in Computer Science (2023 – 2027)**  
 The National Institute of Engineering (NIE), Mysuru  
-CGPA: 7.6 / 10  
+CGPA: 7.73 / 10  
 
 ---
 
