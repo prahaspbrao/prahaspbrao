@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-Pre-Final Year Computer Science student (2027 Batch) with strong foundations in **Data Structures, Algorithms, Object-Oriented Programming, and System Design**.
+Final Year Computer Science student (2027 Batch) with strong foundations in **Data Structures, Algorithms, Object-Oriented Programming, and System Design**.
 
 Worked as a **Full-Stack Developer Intern at Lugality**, building scalable backend systems and distributed processing modules. Passionate about system architecture, performance optimization, and engineering reliable production-ready software.
 
