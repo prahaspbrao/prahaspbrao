@@ -2,7 +2,7 @@
 
 📍 Mysuru, Karnataka, India  
 📧 prahaspbrao2005@gmail.com | 📞 7892851116  
-🔗 [LinkedIn](https://www.linkedin.com/in/prahas-p-b-rao-78062a2a3) | [GitHub](https://github.com/prahaspbrao)
+🔗 [LinkedIn](https://www.linkedin.com/in/prahaspbrao/) | [GitHub](https://github.com/prahaspbrao) | 📄 [Resume](https://github.com/prahaspbrao/prahaspbrao/blob/main/Prahas_Resume.pdf)
 
 ---
 
@@ -90,7 +90,8 @@ Worked as a **Full-Stack Developer Intern at Lugality**, building scalable backe
 ---
 
 ### 🔹 Scalable Backend Infrastructure — Caching & Async Processing  
-**Tech:** Redis, Message Queues, REST APIs
+**Tech:** Redis, Message Queues, REST APIs  
+🔗 GitHub: https://github.com/prahaspbrao/Redis_Project | https://github.com/prahaspbrao/MessageQueue
 
 - Architected high-performance REST APIs with Redis caching layer.
 - Implemented producer–worker system for background job processing.
@@ -123,8 +124,7 @@ Worked as a **Full-Stack Developer Intern at Lugality**, building scalable backe
 ## 🎓 Education
 
 **B.E. in Computer Science (2023 – 2027)**  
-The National Institute of Engineering (NIE), Mysuru  
-CGPA: 7.73 / 10  
+The National Institute of Engineering (NIE), Mysuru
 
 ---
 
