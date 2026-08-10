@@ -2,7 +2,7 @@
 
 📍 Mysuru, Karnataka, India  
 📧 prahaspbrao2005@gmail.com | 📞 7892851116  
-🔗 [LinkedIn](https://www.linkedin.com/in/prahaspbrao/) | [GitHub](https://github.com/prahaspbrao) | 📄 [Resume](https://github.com/prahaspbrao/prahaspbrao/blob/main/Prahas_Resume.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/prahaspbrao/) | [GitHub](https://github.com/prahaspbrao) | 📄 [Resume](https://drive.google.com/file/d/1WCaDcVmtntS8ffotfkum7BFKhiHJxqMI)
 
 ---
 
